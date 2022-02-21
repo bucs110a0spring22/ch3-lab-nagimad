@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ the two turtle race and one of the draws shapes based on different angles and number of sides. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 0/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ I was little confused about the race, not sure if i completed that part correctly. 
 
 ## REFERENCES:
- < List any outside resources used >
+ The Python Library and the description for the lab
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ I am not sure how the race was supposed to look, it seems like in my programm, the two turtles race and then the orange one starts drawing
